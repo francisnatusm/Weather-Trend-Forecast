@@ -1,0 +1,10 @@
+,value
+city,Kyiv
+country,Ukraine
+n_daily_points,793
+train_days,634
+test_days,159
+best_model_by_MAE,Ridge (lags)
+best_MAE,2.2038249392801306
+best_RMSE,2.9773599554913974
+naive_MAE,2.232075471698113

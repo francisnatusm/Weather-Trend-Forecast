@@ -1,0 +1,13 @@
+,value
+n_rows,153775
+n_continents_mapped,7
+anomaly_rate_pct,2.0
+pm25_corr_wind,-0.04612335794952477
+pm25_corr_humidity,-0.22072362657484249
+pm25_corr_temp,0.06349247277153483
+top_rf_feature,abs_latitude
+top_perm_feature,abs_latitude
+top_ridge_feature,abs_latitude
+warmest_continent,Oceania
+coolest_continent,Europe
+highest_pm25_continent,Asia

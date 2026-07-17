@@ -1,0 +1,25 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large / local data (download from Kaggle)
+data/raw/*.zip
+data/raw/archive.zip
+data/raw/state.db
+
+# Regenerable scaled copies (keep weather_cleaned.csv in repo)
+data/processed/weather_minmax_scaled.csv
+data/processed/weather_standard_scaled.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Secrets
+.env
+kaggle.json

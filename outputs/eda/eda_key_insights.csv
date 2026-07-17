@@ -1,0 +1,12 @@
+,value
+n_rows,153775
+n_countries,211
+n_locations,286
+temp_mean,21.365152983254756
+temp_median,23.7
+precip_mean,0.13169878068606733
+pct_wet_rows,32.98975776296537
+corr_temp_humidity,-0.3401616616717308
+corr_temp_feels_like,0.9803013069953673
+corr_abs_lat_temp,-0.5579209170568441
+demo_city,"Bujumbura, Burundi"
