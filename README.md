@@ -10,12 +10,9 @@ Analyze the [Global Weather Repository](https://www.kaggle.com/datasets/nelgiriy
 
 ## PM Accelerator Mission
 
-> Product Manager Accelerator (PMA) runs the non-profit **PMA Kids**, committed to offering free Product Management education to teenagers from underserved families.  
-> **Mission:** break down financial barriers and achieve educational fairness.  
-> **Goal:** establish **200 schools worldwide over the next 20 years**, empower more kids for a better future, and foster a more diverse tech industry.  
-> Source: [pmaccelerator.io](https://www.pmaccelerator.io/)
+> Our mission is to break down financial barriers and achieve educational fairness. With the goal of establishing 200 schools worldwide over the next 20 years, we aim to empower more kids for a better future in their life and career, simultaneously fostering a diverse landscape in the tech industry.
 
-This project is submitted as part of the PM Accelerator internship technical assessment.
+Source: [pmaccelerator.io](https://www.pmaccelerator.io/)
 
 ---
 

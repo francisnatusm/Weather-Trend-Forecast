@@ -10,13 +10,9 @@
 
 ## 1. PM Accelerator Mission
 
-Product Manager Accelerator (PMA) also runs the non-profit **PMA Kids**.
+> Our mission is to break down financial barriers and achieve educational fairness. With the goal of establishing 200 schools worldwide over the next 20 years, we aim to empower more kids for a better future in their life and career, simultaneously fostering a diverse landscape in the tech industry.
 
-> We are committed to offering free Product Management education to teenagers from underserved families.  
-> **Our mission is to break down financial barriers and achieve educational fairness.**  
-> With the goal of establishing **200 schools worldwide over the next 20 years**, we aim to empower more kids for a better future in their life and career, simultaneously fostering a diverse landscape in the tech industry.
-
-Source: [https://www.pmaccelerator.io/](https://www.pmaccelerator.io/)
+Source: [pmaccelerator.io](https://www.pmaccelerator.io/)
 
 ---
 
