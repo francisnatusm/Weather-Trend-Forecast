@@ -1,7 +1,7 @@
 # Weather Trend Forecasting
 
 **PM Accelerator — Tech Assessment (Data Scientist / Analyst Dual Role)**  
-**Candidate:** Francis Natus Mugisha  
+**Name:** Francis Natus Mugisha  
 **Track:** Advanced  
 
 Analyze the [Global Weather Repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository) dataset to forecast weather trends and demonstrate end-to-end data science skills: cleaning, EDA, multi-model forecasting + ensemble, and advanced analyses (anomalies, climate, air quality, feature importance, spatial patterns).

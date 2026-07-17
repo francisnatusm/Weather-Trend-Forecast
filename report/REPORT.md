@@ -2,7 +2,7 @@
 
 **PM Accelerator Tech Assessment**  
 **Role:** Data Scientist / Analyst (Dual Role)  
-**Candidate:** Francis Natus Mugisha  
+**Name:** Francis Natus Mugisha  
 **Dataset:** [Global Weather Repository (Kaggle)](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)  
 **Track completed:** Advanced  
 
