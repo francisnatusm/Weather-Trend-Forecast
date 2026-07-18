@@ -23,3 +23,9 @@ Thumbs.db
 # Secrets
 .env
 kaggle.json
+
+# Local / internal only (not for reviewers)
+_sanitize_repo.py
+DEMO_SCRIPT.md
+assessment_extracted.txt
+outputs/advanced/anomaly_sample_flags.csv

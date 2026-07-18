@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ### 2. Run notebooks (in order)
 
-Open Jupyter / VS Code / Cursor and run **Restart & Run All** on each:
+Open Jupyter or VS Code and run **Restart & Run All** on each:
 
 1. `notebooks/01_data_cleaning.ipynb` → writes `data/processed/weather_cleaned.csv`
 2. `notebooks/02_eda.ipynb` → charts in `outputs/eda/`
