@@ -228,4 +228,4 @@ See root `README.md` for full instructions.
 | `outputs/advanced/01_anomaly_detection.png` | Anomaly visuals |
 | `outputs/advanced/07_spatial_maps.png` | Geo maps |
 | `outputs/advanced/06_feature_importance.png` | Importance comparison |
-| Demo video URL (in README) | 1–2 minute screen-share of code + results |
+| [Demo video](https://youtu.be/sxVaFXo49EY) | 1–2 minute screen-share of code + results |
