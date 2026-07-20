@@ -119,7 +119,7 @@ Full tables and figures: `outputs/` and `report/REPORT.md`.
 - [x] Advanced: anomalies, climate, AQI, feature importance, spatial/geo  
 - [x] Report with **PM Accelerator mission**  
 - [x] README + `requirements.txt`  
-- [x] Demo video (1–2 min) — screen-share of code + results  
+- [x] Demo video (~5 min) — screen-share of code + results  
 
 **Demo video URL:** [https://youtu.be/sxVaFXo49EY](https://youtu.be/sxVaFXo49EY)
 
